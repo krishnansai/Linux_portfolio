@@ -2,7 +2,7 @@
   "name": "kali-linux-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://github.com/krishnansai/",
+  "homepage": "/Linux_portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
